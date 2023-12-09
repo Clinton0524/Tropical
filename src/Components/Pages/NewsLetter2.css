@@ -1,0 +1,58 @@
+.image-2 {
+  width: 60%;
+ 
+}
+
+.profile {
+  width: 40px;
+  border-radius: 25px;
+}
+.paragraph {
+  font-size: 13px;
+  margin-bottom: 0px;
+}
+.Louis {
+  font-size: 10px;
+}
+.ratings {
+  width: 60px;
+}
+.container-1 {
+  background-color: #155e1e;
+
+}
+.harvey {
+  width: 100% border;
+}
+.text {
+  color: white;
+  font-size: 30px;
+  font-family: Ubuntu;
+  font-weight: 400;
+  margin-top: 55px;
+  text-transform: capitalize;
+text-align: start;
+  word-wrap: break-word
+}
+@media screen and (max-width: 1488px) and (min-width: 1000px) {
+  
+  .container-1 {
+margin-top: -50px;
+  
+  }
+  .leaf{
+    position: relative;
+    margin-top: -234px;
+  }
+}
+@media screen and (max-width: 1000px) and (min-width: 
+600px) {
+  .leaf{
+    position: relative;
+    margin-top: 0px;
+    width:50%
+  }
+}
+.btn-color{
+  color: #FFFFFFE0;
+}

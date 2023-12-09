@@ -1,0 +1,48 @@
+.loginimg{
+  width: 100%;
+  min-width: 100%;
+  height: 100%;
+  object-fit: cover}
+
+  .container-3{
+    height: 100%;
+    width: 100%;
+    background-color: green;
+  }
+  .email{
+  background-color: white;
+  }
+  .headding{
+   margin-right:87%
+   
+  }
+  .headdings{
+    margin-right:79%
+  }
+  .decor{
+    text-decoration: none;
+    color:#EE4B22;
+  }
+  .content{
+    position: relative;
+    top: 80%;
+    left: 50%;
+    transform: translate(-48%, -220%);
+    width: 100%;
+  }
+  .contents{
+    position: relative;
+    top: 80%;
+    left: 50%;
+    transform: translate(-48%, -180%);
+    width: 100%;
+  }
+  .imagebanner{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+  .create{
+    margin-right: 190px;
+    font-size: 10px;
+  }
